@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94726994643', 'GURU', true],
-  ['94726994643', 'JANITH-GURU', true], 
+  ['94726639722', 'GURU', true],
+  ['94726639722', 'JANITH-GURU', true], 
   [''] 
 ] //Number of owners
 
@@ -52,7 +52,7 @@ global.premium = 'true'
 global.packname = 'JANITH-GURU' 
 global.author = '@Asliguru' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
+global.dygp = 'https://chat.whatsapp.com/Jw4SnQMdTAo9fGtBBfp0Ca'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
